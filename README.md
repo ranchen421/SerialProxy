@@ -58,7 +58,7 @@ All methods can be found in [Mouse.cs](https://github.com/earthlion/SerialProxy/
 If you have any questions, feel free to open an issue on Github.
 
 # Resources
-[🌎 Nuget](https://www.nuget.org/packages/SerialProxy/)
+[🌎 Nuget](https://www.nuget.org/packages/SerialProxy/)<br>
 [🕵️‍♂️ HID Fingerprinting](https://www.usblyzer.com/)
 
 # Credits
