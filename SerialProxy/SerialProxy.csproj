@@ -4,7 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>SerialProxy</AssemblyName>
     <RootNamespace>SerialProxy</RootNamespace>
-    <Product>Serial Proxy</Product>
     <Description>SerialProxy is a complete MITM solution for modifying 🖱️ mouse & ⌨️ keyboard input against highly sophisticated FPS anti-cheats (ESEA/Faceit/Vanguard/...). This .NET Core package provides convenient access to the Teensy 4.1 interface to get/set proper input values over the provided USB Host Shield.</Description>
     <Copyright>Earthlion</Copyright>
     <PackageProjectUrl>https://github.com/earthlion/SerialProxy</PackageProjectUrl>
